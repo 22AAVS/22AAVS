@@ -2,7 +2,6 @@ Hi there! 👋 I'm Amay Vyas, a web-dev, passionate about software developement.
 I am Btech grad. from RGPV 2023 batch.
 I am intrested in tech, book reading, cycling and music.
 My tech stack includes - JAVA, JAVASCRIPT, CPP, HTML5, CSS3, React.js, Node.js, MySQL
-Connect with Me - ig - amayvyas_
 Let's Collaborate-I'm open to collaboration! Whether you have a project idea, want to contribute to my projects, or just want to chat, feel free to reach out.
 
 
